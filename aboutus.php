@@ -158,7 +158,7 @@
               <i class="fas fa-phone-alt fs-1 cl-white"></i>
               <h3 class="cl-white mt-2">Emergency Cases</h3>
               <p class="cl-white mb-3">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvina</p>
-              <a href="contact.html" class="btn btn-white btn-na case-c1"><i class="fas fa-phone-alt"></i> 334 652 7885423</a>
+              <a href="contact.php" class="btn btn-white btn-na case-c1"><i class="fas fa-phone-alt"></i> +91 78748 90000</a>
             </div>
           </div>
           <div class="col-lg-4 p-lg-0">
@@ -166,7 +166,7 @@
               <i class="far fa-calendar-alt fs-1 cl-white"></i>
               <h3 class="cl-white mt-2">Doctor Timetable</h3>
               <p class="cl-white mb-3">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvina</p>
-              <a href="appointment.html" class="btn btn-white btn-na case-c2"><i class="fas fa-phone-alt"></i> Discover Table</a>
+              <a href="appointment.php" class="btn btn-white btn-na case-c2"><i class="fas fa-phone-alt"></i> Discover Table</a>
             </div>
           </div>
           <div class="col-lg-4 pl-lg-0">
@@ -174,7 +174,7 @@
               <i class="far fa-file-alt fs-1 cl-white"></i>
               <h3 class="cl-white mt-2">Request Appoinment</h3>
               <p class="cl-white mb-3">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvina</p>
-              <a href="contact.html" class="btn btn-white-lb btn-na case-c3"><i class="fas fa-phone-alt"></i> Make Appointment</a>
+              <a href="contact.php" class="btn btn-white-lb btn-na case-c3"><i class="fas fa-phone-alt"></i> Make Appointment</a>
             </div>
           </div>
         </div>
@@ -375,7 +375,7 @@
                 <img src="images/team/medical-hero-fighting-the-coronavirus-2021-05-04-07-27-34-utc.jpg" alt="" />
                 <ul class="social-links-a">
                   <li>
-                    <a href="#"><i class="fab fa-facebook-square"></i></a>
+                    <a href="#"><i class="fab fa-facebook-square"></i></a>Kau
                   </li>
                   <li>
                     <a href="#"><i class="fab fa-twitter-square"></i></a>
@@ -417,7 +417,7 @@
               </div>
               <div class="team-name pt-3">
                 <a href="doctor-profile.html">
-                  <h4>DR. NOREAIN WALTAR</h4>
+                  <h4>DR. Sumit </h4>
                   <p class="cl-green">Pediatrician</p>
                 </a>
               </div>
@@ -593,7 +593,7 @@
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
                 veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
               </p>
-              <h5 class="mt-3 mb-0">Cameron Steve</h5>
+              <h5 class="mt-3 mb-0">Abhishek Sahu</h5>
               <p class="cl-green">Houston Director</p>
             </div>
           </div>
@@ -606,7 +606,7 @@
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
                 veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
               </p>
-              <h5 class="mt-3 mb-0">John Doe</h5>
+              <h5 class="mt-3 mb-0">Jaslin Kaur</h5>
               <p class="cl-green">Heart Patient</p>
             </div>
           </div>
@@ -619,7 +619,7 @@
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
                 veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
               </p>
-              <h5 class="mt-3 mb-0">Cameron Steve</h5>
+              <h5 class="mt-3 mb-0">Pinda </h5>
               <p class="cl-green">Houston Director</p>
             </div>
           </div>
@@ -632,7 +632,7 @@
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
                 veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
               </p>
-              <h5 class="mt-3 mb-0">John Doe</h5>
+              <h5 class="mt-3 mb-0">Jaskirat Singh</h5>
               <p class="cl-green">Heart Patient</p>
             </div>
           </div>
@@ -642,27 +642,7 @@
     <!-- Testimonials end -->
 
     <!-- Call to action start -->
-    <section class="call-to p-5 bg-green">
-      <div class="container">
-        <div class="row align-items-center">
-          <div class="col-lg-4 col-md-12">
-            <div class="call-contact d-flex align-items-center">
-              <i class="fas fa-phone-alt display-6 cl-white"></i>
-              <div class="pl-3">
-                <h4 class="cl-white">Looking For Consultation?</h4>
-                <p class="m-0 cl-white">(+6) 23 555 0892</p>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-4 col-md-12">
-            <p class="call-to-mid cl-white">Contact us for all questions and thinks those. We will proud to you</p>
-          </div>
-          <div class="col-lg-4 col-md-12 text-center">
-            <a href="contact.html" class="btn btn-white">Get Consultation</a>
-          </div>
-        </div>
-      </div>
-    </section>
+    <?php include 'include/callaction.php'; ?>
     <!-- Call to action end -->
 
     <!-- Footer starts -->

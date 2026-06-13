@@ -48,7 +48,7 @@
         </div>
         <div class="row">
           <div class="col-lg-4 col-md-6">
-            <a href="services-detail.html">
+            <a href="contact.php">
               <div class="service-list bg-white bx-shadow mb-3">
                 <div class="sv-icon mb-2">
                   <i class="fas fa-syringe"></i>
@@ -61,7 +61,7 @@
                 </p>
               </div>
             </a>
-            <a href="services-detail.html">
+            <a href="contact.php">
               <div class="service-list bg-white bx-shadow">
                 <div class="sv-icon mb-2">
                   <i class="fas fa-brain"></i>
@@ -76,7 +76,7 @@
             </a>
           </div>
           <div class="col-lg-4 col-md-6">
-            <a href="services-detail.html">
+            <a href="contact.php">
               <div class="service-list bg-white bx-shadow mb-3">
                 <div class="sv-icon mb-2">
                   <i class="fas fa-heartbeat"></i>
@@ -89,7 +89,7 @@
                 </p>
               </div>
             </a>
-            <a href="services-detail.html">
+            <a href="contact.php">
               <div class="service-list bg-white bx-shadow">
                 <div class="sv-icon mb-2">
                   <i class="fas fa-star-of-life"></i>
@@ -104,7 +104,7 @@
             </a>
           </div>
           <div class="col-lg-4 col-md-12">
-            <a href="services-detail.html">
+            <a href="contact.php">
               <div class="service-list bg-white bx-shadow mb-3">
                 <div class="sv-icon mb-2">
                   <i class="fas fa-pills"></i>
@@ -117,7 +117,7 @@
                 </p>
               </div>
             </a>
-            <a href="services-detail.html">
+            <a href="contact.php">
               <div class="service-list bg-white bx-shadow mb-0">
                 <div class="sv-icon mb-2">
                   <i class="fas fa-vial"></i>

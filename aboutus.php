@@ -77,10 +77,10 @@
         <div class="row">
           <div class="col-lg-5 col-md-12">
             <div class="about-img position-relative">
-              <img src="images/home/pediatrician-examining-boy-s-spine-2021-04-02-20-48-30-utc.jpg" class="" alt="" />
-              <a href="#" class="bg-lgreen cl-white rounded-circle text-center m-auto js-video-button" data-video-id="83651159" data-channel="vimeo">
+              <img src="images/home/doc2.png" class="" alt="" />
+              <!-- <a href="#" class="bg-lgreen cl-white rounded-circle text-center m-auto js-video-button" data-video-id="83651159" data-channel="vimeo">
                 <i class="fas fa-play"></i>
-              </a>
+              </a> -->
             </div>
           </div>
           <div class="col-lg-7 col-md-12 p-lg-4">
@@ -166,7 +166,7 @@
               <i class="far fa-calendar-alt fs-1 cl-white"></i>
               <h3 class="cl-white mt-2">Doctor Timetable</h3>
               <p class="cl-white mb-3">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvina</p>
-              <a href="appointment.php" class="btn btn-white btn-na case-c2"><i class="fas fa-phone-alt"></i> Discover Table</a>
+              <a href="contact.php" class="btn btn-white btn-na case-c2"><i class="fas fa-phone-alt"></i> Discover Table</a>
             </div>
           </div>
           <div class="col-lg-4 pl-lg-0">
@@ -390,7 +390,7 @@
               </div>
               <div class="team-name pt-3">
                 <a href="doctor-profile.html">
-                  <h4>DR. WILLIAM SMITH</h4>
+                  <h4>DR. Nitin Sharma</h4>
                   <p class="cl-green">CEO/ Founder</p>
                 </a>
               </div>
@@ -417,7 +417,7 @@
               </div>
               <div class="team-name pt-3">
                 <a href="doctor-profile.html">
-                  <h4>DR. Sumit </h4>
+                  <h4>DR. Monika</h4>
                   <p class="cl-green">Pediatrician</p>
                 </a>
               </div>

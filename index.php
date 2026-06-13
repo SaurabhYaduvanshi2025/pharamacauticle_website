@@ -107,7 +107,7 @@
             <div class="sc-title-two sc-title-two-white sc-border-left appoint-info w-100 mb-7">
               <i class="fas fa-phone-volume bg-lgreen"></i>
               <h3 class="cl-white mt-2">Need An Emergecny Help</h3>
-              <h2 class="cl-lgreen fsc-5 mb-3">Call: +952-543256</h2>
+              <h2 class="cl-lgreen fsc-5 mb-3">Call: +91-8574965874</h2>
             </div>
             <div class="appoint-detail">
               <p class="cl-white">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</p>
@@ -115,7 +115,7 @@
           </div>
           <div class="col-lg-6">
             <div class="hotline-img pl-4 pr-4">
-              <img src="images/inner/n-e1633078810928.png" alt="" />
+              <img src="images/inner/doc1.png" alt="" />
             </div>
           </div>
         </div>

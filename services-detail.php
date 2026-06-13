@@ -44,11 +44,11 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-4 col-md-4">
-            <div class="side-search position-relative overflow-hidden rounded-1 mb-3">
+            <!-- <div class="side-search position-relative overflow-hidden rounded-1 mb-3">
               <input type="text" class="form-control" id="search" placeholder="Search..." />
               <a href="#" class="search-btn"><i class="fa fa-search"></i></a>
-            </div>
-            <div class="side-cat-list p-3 border border-light-c mb-3">
+            </div> -->
+            <!-- <div class="side-cat-list p-3 border border-light-c mb-3">
               <ul class="list-item">
                 <li class="p-2 pl-0 border-bt-dash border-light-c2"><i class="fas fa-angle-double-right"></i> <a href="#">Cardiology</a></li>
                 <li class="p-2 pl-0 border-bt-dash border-light-c2"><i class="fas fa-angle-double-right"></i> <a href="#">Orthopedics</a></li>
@@ -58,12 +58,12 @@
                 <li class="p-2 pl-0 border-bt-dash border-light-c2"><i class="fas fa-angle-double-right"></i> <a href="#">Women Health</a></li>
                 <li class="p-2 pl-0"><i class="fas fa-angle-double-right"></i> <a href="#">Pediatric Care</a></li>
               </ul>
-            </div>
+            </div> -->
             <div class="side-add bg-dblue text-center p-4 mb-3">
               <a href="#">
                 <i class="fas fa-headset cl-white fsc-1"></i>
                 <h3 class="cl-white mt-3 mt-3">Online Help!</h3>
-                <h3 class="cl-lgreen">+254 5492 336</h3>
+                <h3 class="cl-lgreen">+91 98680 98680</h3>
               </a>
             </div>
             <div class="side-download">
@@ -73,7 +73,7 @@
           </div>
           <div class="col-lg-8 col-md-8">
             <div class="sv-detail-img mb-3">
-              <img src="images/inner/teenage-boy-having-medical-consultation-with-docto-SKLQAWP.jpg" alt="" />
+              <img src="images/inner/doc3.png" alt="" />
             </div>
             <div class="sv-detail-content about-detail mb-3">
               <h2>Cardiology</h2>
@@ -205,68 +205,7 @@
     <!-- Appointment end -->
 
     <!-- Team start -->
-    <section class="team pb-9 bg-sfgrey-3">
-      <div class="container">
-        <div class="sc-title-two text-center">
-          <h4 class="cl-green">Meet Our Team</h4>
-          <h2>Certified & Experienced Doctors</h2>
-        </div>
-        <div class="row">
-          <div class="col-lg-3 col-md-6">
-            <div class="team-wrap position-relative mb-10 text-center">
-              <div class="team-img position-relative rounded-2 overflow-hidden before-x">
-                <img src="images/team/medical-hero-fighting-the-coronavirus-2021-05-04-07-27-34-utc.jpg" alt="" />
-              </div>
-              <div class="team-name-ab bx-shadow pt-4 pb-2">
-                <a href="doctor-profile.html">
-                  <h4>DR. WILLIAM SMITH</h4>
-                  <p class="cl-green">CEO/ Founder</p>
-                </a>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-3 col-md-6">
-            <div class="team-wrap position-relative mb-10 text-center">
-              <div class="team-img position-relative rounded-2 overflow-hidden before-x">
-                <img src="images/team/medical-assistant-with-visor-and-face-mask-2021-04-05-12-17-04-utc.jpg" alt="" />
-              </div>
-              <div class="team-name-ab bx-shadow pt-4 pb-2">
-                <a href="doctor-profile.html">
-                  <h4>DR. NOREAIN WALTAR</h4>
-                  <p class="cl-green">Pediatrician</p>
-                </a>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-3 col-md-6">
-            <div class="team-wrap position-relative mb-10 text-center">
-              <div class="team-img position-relative rounded-2 overflow-hidden before-x">
-                <img src="images/team/medical-experts-2021-05-02-19-42-45-utc.jpg" alt="" />
-              </div>
-              <div class="team-name-ab bx-shadow pt-4 pb-2">
-                <a href="doctor-profile.html">
-                  <h4>DR. JESSICA BROWN</h4>
-                  <p class="cl-green">Laboratory</p>
-                </a>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-3 col-md-6">
-            <div class="team-wrap position-relative mb-10 text-center">
-              <div class="team-img position-relative rounded-2 overflow-hidden before-x">
-                <img src="images/team/rm7rZYdl3rY.jpg" alt="" />
-              </div>
-              <div class="team-name-ab bx-shadow pt-4 pb-2">
-                <a href="doctor-profile.html">
-                  <h4>DR. JESSICA BROWN</h4>
-                  <p class="cl-green">Emergency Physician</p>
-                </a>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
+    <!--  -->
     <!-- Team end -->
 
     <!-- Call to action start -->

@@ -3,7 +3,7 @@
         <div class="row align-items-center">
           <div class="col-lg-5 col-md-6 pe-lg-5">
             <div class="about-img-2">
-              <img src="images/home/medical-team-workers-examining-a-medical-report-KQ5AY7L.jpg" alt="" />
+              <img src="images/home/medicien.png" alt="" />
             </div>
           </div>
           <div class="col-lg-7 col-md-6">

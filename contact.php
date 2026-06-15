@@ -51,7 +51,7 @@
             <div class="ct-detail-list d-flex align-items-center border border-light-c1 bg-sfgrey-2 p-4 mb-3">
               <i class="fas fa-phone-alt fs-1"></i>
               <div class="pl-4">
-                <h3>+95 425 11554</h3>
+                <h3>+91 85749 74125</h3>
                 <p class="mb-0">Call Today</p>
               </div>
             </div>
@@ -60,7 +60,7 @@
             <div class="ct-detail-list d-flex align-items-center border border-light-c1 bg-sfgrey-2 p-4 mb-3">
               <i class="far fa-envelope fs-1"></i>
               <div class="pl-4">
-                <h3><a href="https://htmldesigntemplates.com/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="afc6c1c9c0efced6daddd9cacbc6cc81ccc0c2">[email&#160;protected]</a></h3>
+                <h3><a href="https://htmldesigntemplates.com/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="afc6c1c9c0efced6daddd9cacbc6cc81ccc0c2">[highdigitech@gmail.com]</a></h3>
                 <p class="mb-0">Feel Free To Mail Us</p>
               </div>
             </div>
@@ -69,7 +69,7 @@
             <div class="ct-detail-list d-flex align-items-center border border-light-c1 bg-sfgrey-2 p-4 mb-3">
               <i class="fas fa-map-marker-alt fs-1"></i>
               <div class="pl-4">
-                <h3>14 Street Brooklyn, NY</h3>
+                <h3>Ramphal chaowk Dawraka Sector 7 New Delhi </h3>
                 <p class="mb-0">Find Our Location</p>
               </div>
             </div>
@@ -120,7 +120,7 @@
             <div class="sc-title-two sc-border-left appoint-info mb-8 w-100">
               <i class="fas fa-phone-volume bg-lgreen"></i>
               <h3 class="mt-2">Need An Emergecny Help</h3>
-              <h2 class="cl-lgreen fs-1 mb-3">Call: +952-543256</h2>
+              <h2 class="cl-lgreen fs-1 mb-3">Call: +91 85749 74125</h2>
             </div>
             <div class="appoint-detail">
               <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</p>
@@ -128,7 +128,7 @@
           </div>
           <div class="col-lg-6 col-md-12">
             <div class="hotline-img pl-4 pr-4">
-              <img src="images/inner/n-e1633078810928.png" alt="" />
+              <img src="images/inner/doc1.png" alt="" />
             </div>
           </div>
         </div>

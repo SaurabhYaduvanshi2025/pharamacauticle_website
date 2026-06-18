@@ -103,7 +103,7 @@
                       </button>
                     </h2>
 
-                    <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse show" aria-labelledby="panelsStayOpen-headingOne">
+                    <!-- <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse show" aria-labelledby="panelsStayOpen-headingOne">
                       <div class="accordion-body">
                         <ol>
                           <li>
@@ -127,7 +127,7 @@
                           </li>
                         </ol>
                       </div>
-                    </div>
+                    </div> -->
                   </div>
                   <!-- Accordion card -->
                 </div>
@@ -154,7 +154,7 @@
                 </div>
               </div>
 
-              <div class="blog_user_info d-flex border-start bw-3 bc-green bg-sfgrey-2 p-4 mb-3">
+              <!-- <div class="blog_user_info d-flex border-start bw-3 bc-green bg-sfgrey-2 p-4 mb-3">
                 <div class="blg-user w-25 pr-3">
                   <img src="images/team/user-1.jpg" class="rounded-circle" alt="" />
                 </div>
@@ -165,7 +165,7 @@
                     Eaque explicabo aliquid unde?
                   </p>
                 </div>
-              </div>
+              </div> -->
               <div class="blg__ct_form">
                 <h3>Leave a Reply</h3>
                 <p>Your email address will not be published. Required fields are marked *</p>
@@ -207,7 +207,7 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-4 col-md-12">
+          <!-- <div class="col-lg-4 col-md-12">
             <div class="side-search position-relative overflow-hidden rounded-1 mb-3">
               <input type="text" class="form-control" id="search" placeholder="Search..." />
               <a href="#" class="search-btn"><i class="fa fa-search"></i></a>
@@ -303,7 +303,7 @@
                 <button class="btn bg-green w-100 mt-3">Subscribe Now</button>
               </div>
             </div>
-          </div>
+          </div> -->
         </div>
       </div>
     </section>
@@ -314,89 +314,8 @@
     <!-- Call to action end -->
 
     <!-- Footer starts -->
-    <footer class="footer bg-ftblue">
-      <div class="footer-wrap">
-        <div class="container">
-          <div class="row">
-            <div class="col-lg-4 col-md-6">
-              <div class="f-maincontent bg-white border-start bw-3 bc-green">
-                <img src="images/logo.png" alt="" />
-                <p class="mt-3 mb-3">
-                  I am text block. Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec
-                  ullamcorper matti pibus leo.
-                </p>
-                <ul class="social-links-a square-link">
-                  <li>
-                    <a href="#"><i class="fab fa-twitter"></i></a>
-                  </li>
-                  <li>
-                    <a href="#"><i class="fab fa-facebook-f"></i></a>
-                  </li>
-                  <li>
-                    <a href="#"><i class="fab fa-youtube"></i></a>
-                  </li>
-                  <li>
-                    <a href="#"><i class="fab fa-pinterest-p"></i></a>
-                  </li>
-                </ul>
-              </div>
-            </div>
-            <div class="col-lg-2 col-md-6 ps-lg-4">
-              <div class="ft-lists">
-                <h3 class="cl-white">Useful Links</h3>
-                <ul class="d-flex flex-column">
-                  <li><a href="#">About Us</a></li>
-                  <li><a href="#">Services</a></li>
-                  <li><a href="#">Blog</a></li>
-                  <li><a href="#">Our Patients</a></li>
-                  <li><a href="#">Doctors</a></li>
-                  <li><a href="#">Appointments</a></li>
-                  <li><a href="#">Privacy Policy</a></li>
-                  <li><a href="#">Contact Us</a></li>
-                </ul>
-              </div>
-            </div>
-            <div class="col-lg-2 col-md-6">
-              <div class="ft-lists">
-                <h3 class="cl-white">Our Services</h3>
-                <ul class="d-flex flex-column">
-                  <li><a href="#">Cardiology</a></li>
-                  <li><a href="#">Diagnosis</a></li>
-                  <li><a href="#">Cardiology</a></li>
-                  <li><a href="#">Massage Therapy</a></li>
-                  <li><a href="#">Dental Care</a></li>
-                  <li><a href="#">Blood Test</a></li>
-                  <li><a href="#">Operation Theater</a></li>
-                  <li><a href="#">Pharmacy</a></li>
-                </ul>
-              </div>
-            </div>
-            <div class="col-lg-4 col-md-6">
-              <div class="ft-lists">
-                <h3 class="cl-white">Weekly Newslatter</h3>
-                <p class="cl-white">
-                  I am text block. Click edit button to change this text. Lorem ipsum dolor sit amet, conse iscing elit. Ut elit telctus nec ullamcorper matti
-                </p>
-                <form>
-                  <div class="form-group">
-                    <input type="email" class="form-control mt-3 p-3" id="exampleFormControlInput1" placeholder="Your Email" />
-                    <button class="btn w-100 mt-1">Subscribe</button>
-                  </div>
-                </form>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="copyright-main p-3 bg-footer-blue">
-        <div class="container">
-          <div class="copyright-text d-flex justify-content-between">
-            <p class="cl-white m-0">© 2022 Ayurvedic. All rights reserved</p>
-            <p class="cl-white">Made by Cyclone Themes</p>
-          </div>
-        </div>
-      </div>
-    </footer>
+        
+      <?php include 'include/footer.php'; ?>
     <!-- Footer ends -->
 
     <!-- Search form popup -->

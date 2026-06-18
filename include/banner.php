@@ -9,7 +9,7 @@
                 <h1 class="cl-white mt-2 wow fadeInDown">Our Commitment to Safe Care</h1>
                 <p class="">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</p>
                 <div class="slide-btn mt-4">
-                  <a href="aboutus.html" class="btn">Learn More</a>
+                  <a href="index.php" class="btn">Learn More</a>
                 </div>
               </div>
             </div>
@@ -23,7 +23,7 @@
                 <h1 class="cl-white mt-2 wow fadeInDown">More ways than ever to get the care you need.</h1>
                 <p class="">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</p>
                 <div class="slide-btn mt-4">
-                  <a href="contact.html" class="btn">Get Started</a>
+                  <a href="contact.php" class="btn">Get Started</a>
                 </div>
               </div>
             </div>
@@ -37,7 +37,7 @@
                 <h1 class="cl-white mt-2 wow fadeInDown">Healthcare Websites Reimagined</h1>
                 <p class="">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</p>
                 <div class="slide-btn mt-4">
-                  <a href="contact.html" class="btn">Learn More</a>
+                  <a href="contact.php" class="btn">Learn More</a>
                 </div>
               </div>
             </div>
